@@ -9,5 +9,5 @@ Steps:-
   3- Go to the path of download folder in cmd.
   4- type "npm install"
   5- then type "npm start"
-  6- Vola, your application is up and running in browser at address "http://localhost:3000"
+  6- Hurreyyy!!! your application is up and running in browser at address "http://localhost:3000"
   
